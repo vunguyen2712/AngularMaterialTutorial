@@ -209,7 +209,6 @@ Here you will use hard-coded elements and Angular Material UI componetns to rend
 
 ### Step #4: Dynamic, Mock Data
 
-Here you will replace the hard-coded HTML with dynamic, mock user data. Let's do this in 2 stages:
 
   *  Build custom application logic for load the mock user data
   *  Build the HTML markup to render the dynamic, mock data
